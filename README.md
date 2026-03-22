@@ -1,7 +1,5 @@
 road to greatness.
 
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=jumestar&show_icons=true&theme=dark)
 ## Langages
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
